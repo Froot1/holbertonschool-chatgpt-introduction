@@ -1,6 +1,5 @@
 <p align="center">
-<img width="520" align="center" altlt="Image" src="https://github.com/user-attachments/assets/404330cb-84a3-45ea-9f3d-c51c9dab9b1a
-" />
+<img width="520" align="center" altlt="Image" src="https://github.com/user-attachments/assets/404330cb-84a3-45ea-9f3d-c51c9dab9b1a" />
 </p>
 
 # ChatGPT Introduction Project

@@ -1,3 +1,8 @@
+<p align="center">
+<img width="520" align="center" altlt="Image" src="https://github.com/user-attachments/assets/404330cb-84a3-45ea-9f3d-c51c9dab9b1a
+" />
+</p>
+
 # ChatGPT Introduction Project
 
 Welcome to the ChatGPT Introduction Project! This project focuses on enhancing code quality and efficiency by using ChatGPT for debugging, automation, documentation, and error handling. Through a series of exercises, you'll learn how to integrate artificial intelligence into everyday coding practices.
